@@ -58,19 +58,19 @@
         <mxCell id="ypcvFY-D17vN2l5CXmnZ-29" value="스택 메모리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="595" y="314" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ypcvFY-D17vN2l5CXmnZ-30" value="&lt;font&gt;워커 스레드 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B197FC;fontColor=light-dark(#000000, #121212);strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="ypcvFY-D17vN2l5CXmnZ-30" value="&lt;font&gt;워커 스레드 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B197FC;fontColor=light-dark(#000000, #121212);strokeColor=#B197FC;" vertex="1" parent="1">
           <mxGeometry x="585" y="160" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypcvFY-D17vN2l5CXmnZ-31" value="&lt;font&gt;워커 스레드 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B197FC;fontColor=light-dark(#000000, #121212);strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="ypcvFY-D17vN2l5CXmnZ-31" value="&lt;font&gt;워커 스레드 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B197FC;fontColor=light-dark(#000000, #121212);strokeColor=#B197FC;" vertex="1" parent="1">
           <mxGeometry x="585" y="200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypcvFY-D17vN2l5CXmnZ-32" value="&lt;font&gt;워커 스레드 N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B197FC;fontColor=light-dark(#000000, #121212);strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="ypcvFY-D17vN2l5CXmnZ-32" value="&lt;font&gt;워커 스레드 N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B197FC;fontColor=light-dark(#000000, #121212);strokeColor=#B197FC;" vertex="1" parent="1">
           <mxGeometry x="585" y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypcvFY-D17vN2l5CXmnZ-33" value="스레드 스택&amp;nbsp;1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAA2C1;fontColor=light-dark(#000000, #121212);strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="ypcvFY-D17vN2l5CXmnZ-33" value="스레드 스택&amp;nbsp;1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAA2C1;fontColor=light-dark(#000000, #121212);strokeColor=#FAA2C1;" vertex="1" parent="1">
           <mxGeometry x="585" y="350" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ypcvFY-D17vN2l5CXmnZ-34" value="&lt;font&gt;스레드 스택&amp;nbsp;2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAA2C1;fontColor=light-dark(#000000, #121212);strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="ypcvFY-D17vN2l5CXmnZ-34" value="&lt;font&gt;스레드 스택&amp;nbsp;2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAA2C1;fontColor=light-dark(#000000, #121212);strokeColor=#FAA2C1;" vertex="1" parent="1">
           <mxGeometry x="585" y="390" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ypcvFY-D17vN2l5CXmnZ-49" value="JVM 메모리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
