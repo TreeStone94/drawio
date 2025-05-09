@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="2">
   <diagram name="페이지-1" id="EVsew44wbxwovNEyOfe2">
-    <mxGraphModel dx="1426" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="150" y="157.2010052020808" width="120" height="63.769507803121265" as="geometry" />
         </mxCell>
         <mxCell id="ypcvFY-D17vN2l5CXmnZ-6" value="사용자 정의 객체" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="150" y="254.11066266506603" width="120" height="63.769507803121265" as="geometry" />
+          <mxGeometry x="150" y="246.52066266506603" width="120" height="63.769507803121265" as="geometry" />
         </mxCell>
         <mxCell id="ypcvFY-D17vN2l5CXmnZ-11" value="힙 메모리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="270" y="120" width="120" height="42.513005202080834" as="geometry" />
