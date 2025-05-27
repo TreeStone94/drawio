@@ -204,10 +204,10 @@
           <mxGeometry x="45" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlUdzpCCPg8i99B40fjk-7" value="basic.deliver / basic.get-ok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#E1D5E7;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="225.00000000000003" width="150" height="30" as="geometry" />
+          <mxGeometry x="410" y="220.00000000000003" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlUdzpCCPg8i99B40fjk-8" value="basic.ack / basic.reject" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#E1D5E7;textShadow=0;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="225" width="150" height="30" as="geometry" />
+          <mxGeometry x="410" y="232.36" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlUdzpCCPg8i99B40fjk-10" value="" style="shape=link;html=1;rounded=0;entryX=0.387;entryY=-0.005;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="WlUdzpCCPg8i99B40fjk-3">
           <mxGeometry width="100" relative="1" as="geometry">
