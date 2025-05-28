@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UpqP-cSCFCn5MyVUnGog" name="페이지-2">
-    <mxGraphModel dx="1047" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,11 +117,11 @@
         <mxCell id="tHyLoDU8dmbQ4kAwKEk0-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.envelope_(empty);" parent="1" vertex="1">
           <mxGeometry x="432" y="310" width="28" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="tHyLoDU8dmbQ4kAwKEk0-10" value="basic.deliver / basic.get-ok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#82B366;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="312.36" width="150" height="30" as="geometry" />
+        <mxCell id="tHyLoDU8dmbQ4kAwKEk0-10" value="basic.deliver / basic.get-ok" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#F0A30A;textShadow=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="332.36" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tHyLoDU8dmbQ4kAwKEk0-16" value="basic.ack / basic.reject" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#82B366;textShadow=1;labelBorderColor=#82B366;" parent="1" vertex="1">
-          <mxGeometry x="525" y="390" width="150" height="30" as="geometry" />
+          <mxGeometry x="390" y="407.5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tHyLoDU8dmbQ4kAwKEk0-17" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#828282;entryX=0.998;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="tHyLoDU8dmbQ4kAwKEk0-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
