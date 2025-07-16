@@ -260,10 +260,10 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hExJihrdr1J2ibzqaa3C-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CCCCCC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="hExJihrdr1J2ibzqaa3C-10">
+        <mxCell id="hExJihrdr1J2ibzqaa3C-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="hExJihrdr1J2ibzqaa3C-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="452.74" as="sourcePoint" />
-            <mxPoint x="360" y="452.74" as="targetPoint" />
+            <mxPoint x="440" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hExJihrdr1J2ibzqaa3C-26" value="ack" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="hExJihrdr1J2ibzqaa3C-25">
