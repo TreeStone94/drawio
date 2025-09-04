@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2" pages="5">
   <diagram name="페이지-1" id="EVsew44wbxwovNEyOfe2">
     <mxGraphModel dx="796" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -583,6 +583,65 @@
         </mxCell>
         <mxCell id="BWgg58U9zL-y97YxImBD-4" value="Provided by Mybatis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="692.5" width="160" height="52.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NI6WdnXDTLR1EGdzUx8b" name="페이지-5">
+    <mxGraphModel dx="2595" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="270" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="270" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-3" value="Persistence Context" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="220" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-4" value="EntityManager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="220" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-5" value="Service Entity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-6" value="User Entity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="640" y="374" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7X7MKCNA__eTSXCeQsSH-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="310" as="sourcePoint" />
+            <mxPoint x="760" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="413" as="sourcePoint" />
+            <mxPoint x="640" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-140" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-10" value="EntityManagerFactory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="-130" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7X7MKCNA__eTSXCeQsSH-9" target="7X7MKCNA__eTSXCeQsSH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="200" as="sourcePoint" />
+            <mxPoint x="760" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-12" value="Persistence Unit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-90" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7X7MKCNA__eTSXCeQsSH-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="325" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo5uyhLtsjhNEY84h4RH-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="320" width="90" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
