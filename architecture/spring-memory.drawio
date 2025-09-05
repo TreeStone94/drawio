@@ -354,7 +354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PcRuA2BPfRyXp5g7NqbQ" name="페이지-4">
-    <mxGraphModel dx="1826" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2089" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,19 +500,19 @@
         <mxCell id="D9MzbnFhTtSP5tc18tqQ-42" value="SqlSession" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="480" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="D9MzbnFhTtSP5tc18tqQ-43" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.517;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=0;entryX=0.642;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="D9MzbnFhTtSP5tc18tqQ-2" edge="1">
+        <mxCell id="D9MzbnFhTtSP5tc18tqQ-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;curved=1;entryX=0.734;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="D9MzbnFhTtSP5tc18tqQ-3" target="D9MzbnFhTtSP5tc18tqQ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="809.9999999999998" y="504.6400000000001" as="sourcePoint" />
-            <mxPoint x="550" y="370" as="targetPoint" />
+            <mxPoint x="200" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="440" />
-              <mxPoint x="470" y="440" />
+              <mxPoint x="640" y="450" />
+              <mxPoint x="470" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_PYr5ER7TCOZjCutaRJo-3" value="(3) SqlSession 객체 생성" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9MzbnFhTtSP5tc18tqQ-43" vertex="1" connectable="0">
           <mxGeometry x="-0.1009" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="118" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_PYr5ER7TCOZjCutaRJo-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.786;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryPerimeter=0;" parent="1" source="D9MzbnFhTtSP5tc18tqQ-42" target="D9MzbnFhTtSP5tc18tqQ-22" edge="1">
