@@ -23,7 +23,7 @@
           <mxGeometry x="400" y="76.46000000000001" width="120" height="43.5374149659864" as="geometry" />
         </mxCell>
         <mxCell id="ypcvFY-D17vN2l5CXmnZ-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;클래스 메타 정보,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;메소드 정보 및 상수풀&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="574" y="261.89" width="205" height="70" as="geometry" />
+          <mxGeometry x="575" y="260.89" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ypcvFY-D17vN2l5CXmnZ-25" value="메타스페이스" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="610" y="266.7557823129252" width="120" height="43.5374149659864" as="geometry" />
